@@ -4,9 +4,6 @@ rm(list=ls())
 gc()
 
 library(data.table)
-library(mlr3verse)
-library(tidyverse)
-
 
 getwd()
 #data <- fread("datasets_2/calibrado_201905.csv")
